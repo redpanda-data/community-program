@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/redpandadata.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=redpandadata)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCMrqRNX9Og3wFjuI-qMbKHw)](https://www.youtube.com/channel/UCMrqRNX9Og3wFjuI-qMbKHw)
 	
-<img src="images/office-hour-top.png" width="30%" />
+<img src="images/office-hour-top.png" width="50%" />
 
 Our office hours are 45-minute-long (not quite an hour) live chat sessions that cover all things Redpanda. We will discuss early features, latest product updates, live demos and more. Keep up on what's new, grow your knowledge, add to your skills. We'll also conduct live Q&A and  occasionally host quizzes, games & contests!
 
