@@ -1,6 +1,6 @@
 ## 1. Purpose
 
-The office hour is intended to foster a sense of community and influence among coworkers, colleagues, clients and customers. We wish to empower engineers through direct interaction with community members. And motivate our community members to share their story about Redpanda. And a opportunity to network and meet the experts in our amazing Redpanda community. 
+The office hour is intended to foster a sense of community and influence among coworkers, colleagues, clients and customers. We wish to empower engineers through direct interaction with community members. And motivate our community members to share their story about Redpanda. And an opportunity to network and meet the experts in our amazing Redpanda community. 
 
 
 ## 2. Open [Source/Culture/Tech] Citizenship

@@ -7,6 +7,7 @@
 
 Our office hours are 45-minute-long (not quite an hour) live chat sessions that cover all things Redpanda. We will discuss early features, latest product updates, live demos and more. Keep up on what's new, grow your knowledge, add to your skills. We'll also conduct live Q&A and  occasionally host quizzes, games & contests!
 
+<p align="right"><a href="about-office-hour.md">read more about office hours...</a></p>
 <br> 
 <br> 
 
